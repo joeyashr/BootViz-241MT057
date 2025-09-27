@@ -12,6 +12,7 @@ BootViz/
 ├── src/ # Assembly source files (.asm)
 
 │ ├── bootloader.asm # Boot sector code (first-stage)
+
 │ └── keyboard.asm # Keyboard input handler
 
 ├── bin/ # Compiled bootable image files (.img)
